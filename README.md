@@ -1,6 +1,11 @@
 # 🛒 Amazon E-Commerce Web Application
 
-A responsive Amazon-inspired E-Commerce Web Application built using **HTML5, CSS3, and JavaScript (ES6 Modules)**. The project simulates a real-world online shopping experience with product browsing, shopping cart management, checkout, order history, and package tracking.
+A responsive Amazon-inspired E-Commerce Web Application built using **HTML5, CSS3, and JavaScript (ES6 Modules)**. The project simulates a real-world online shopping experience with product browsing, shopping cart management, checkout, order history, and package tracking while integrating REST APIs and modern JavaScript concepts.
+
+## 🌐 Live Demo
+
+🚀 **Live Application:**  
+https://varunnachimuthu-s.github.io/amazon-ecommerce-web-app/
 
 ---
 
@@ -12,16 +17,16 @@ A responsive Amazon-inspired E-Commerce Web Application built using **HTML5, CSS
 
 ## 🚀 Features
 
-- Browse products dynamically
-- Search products
-- Add and remove items from cart
-- Checkout with delivery options
-- Order summary calculation
-- Order history
-- Package tracking
-- Persistent shopping cart using Local Storage
-- Responsive user interface
-- Automated testing with Jasmine
+- 🛍️ Browse products dynamically
+- 🔍 Search products
+- 🛒 Add and remove items from cart
+- 💳 Interactive checkout process
+- 🚚 Delivery option selection
+- 📦 Order history management
+- 📍 Package tracking
+- 💾 Persistent shopping cart using Local Storage
+- 📱 Fully responsive design
+- 🧪 Automated testing using Jasmine
 
 ---
 
@@ -37,7 +42,8 @@ A responsive Amazon-inspired E-Commerce Web Application built using **HTML5, CSS
 - Local Storage
 - Object-Oriented Programming (OOP)
 - Jasmine Testing Framework
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
@@ -52,15 +58,16 @@ amazon-ecommerce-web-app
 ├── scripts/
 ├── styles/
 ├── tests/
-├── amazon.html
+├── index.html
 ├── checkout.html
 ├── orders.html
 ├── tracking.html
+└── README.md
 ```
 
 ---
 
-## 📸 Application Preview
+## 📸 Application Screenshots
 
 ### 🏠 Home Page
 
@@ -70,27 +77,27 @@ amazon-ecommerce-web-app
 
 ### 🛒 Checkout Page
 
-![Checkout](images/screenshots/checkout-page.png)
+![Checkout Page](images/screenshots/checkout-page.png)
 
 ---
 
 ### 📦 Orders Page
 
-![Orders](images/screenshots/order-page.png)
+![Orders Page](images/screenshots/order-page.png)
 
 ---
 
 ### 🚚 Package Tracking
 
-![Tracking](images/screenshots/tracking-page.png)
+![Tracking Page](images/screenshots/tracking-page.png)
 
 ---
 
 ## 💡 JavaScript Concepts Demonstrated
 
 - ES6 Modules
-- Classes & Inheritance
 - Object-Oriented Programming
+- Classes & Objects
 - Async/Await
 - Promises
 - Fetch API
@@ -103,37 +110,45 @@ amazon-ecommerce-web-app
 
 ## 🧪 Testing
 
-Implemented using the Jasmine Testing Framework:
+The application includes automated testing using the **Jasmine Testing Framework**.
+
+Implemented tests include:
 
 - Unit Testing
 - Integration Testing
-- Cart Functionality Testing
-- Order Summary Testing
-- Utility Function Testing
+- Shopping Cart Functionality
+- Order Summary Logic
+- Utility Functions
 
 ---
 
 ## ⚙️ Installation
 
-Clone the repository:
+Clone the repository
 
 ```bash
 git clone https://github.com/Varunnachimuthu-S/amazon-ecommerce-web-app.git
 ```
 
-Navigate to the project folder:
+Navigate into the project folder
 
 ```bash
 cd amazon-ecommerce-web-app
 ```
 
-Open `amazon.html` in your preferred browser.
+Run the project by opening
+
+```text
+index.html
+```
+
+in your preferred web browser.
 
 ---
 
 ## 📚 Skills Demonstrated
 
-- Frontend Development
+- Frontend Web Development
 - Responsive Web Design
 - REST API Integration
 - JavaScript ES6+
@@ -141,7 +156,7 @@ Open `amazon.html` in your preferred browser.
 - State Management
 - Browser Storage
 - Testing & Debugging
-- Version Control with Git
+- Version Control using Git & GitHub
 
 ---
 
@@ -149,7 +164,7 @@ Open `amazon.html` in your preferred browser.
 
 **Varunnachimuthu**
 
-GitHub: https://github.com/Varunnachimuthu-S
+- GitHub: https://github.com/Varunnachimuthu-S
 
 ---
 
